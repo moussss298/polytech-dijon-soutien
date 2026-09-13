@@ -10,3 +10,6 @@ COLORS = {
 def afficher_couleurs():
     for lettre, nom in COLORS.items():
         print(f"{lettre} = {nom}")
+qfgfqg
+fsgqgnjg
+gsghhhhd
