@@ -1,5 +1,9 @@
 import random
 
+# PARAMÈTRES DU JEU
+NOMBRE_ELEMENTS_CODE = 4
+MAX_TENTATIVES = 12
+
 COULEURS = {
     "R": "Rouge",
     "V": "Vert",
