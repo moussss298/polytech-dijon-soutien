@@ -20,6 +20,6 @@ for lettre, nom in COULEURS.items():
 # Créer le code secret
 code_secret = []
 
-for i in range(4):
+for i in range(NOMBRE_ELEMENTS_CODE):
     couleur = random.choice(list(COULEURS.keys()))
     code_secret.append(couleur)
